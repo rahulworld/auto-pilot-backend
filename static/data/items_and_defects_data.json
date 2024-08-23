@@ -4,7 +4,7 @@
         "date": "2024-06-01",
         "productCategory": "iphone",
         "severity": "high",
-        "faulty": 10,
+        "faulty": 13,
         "total_units": 100,
         "cost": 450
     },
@@ -13,7 +13,7 @@
         "date": "2024-06-02",
         "productCategory": "ipad",
         "severity": "low",
-        "faulty": 20,
+        "faulty": 18,
         "total_units": 100,
         "cost": 600
     },
@@ -49,7 +49,7 @@
         "date": "2024-06-06",
         "productCategory": "iphone",
         "severity": "low",
-        "faulty": 2,
+        "faulty": 3,
         "total_units": 100,
         "cost": 420
     },
@@ -67,7 +67,7 @@
         "date": "2024-06-08",
         "productCategory": "ipad",
         "severity": "low",
-        "faulty": 10,
+        "faulty": 9,
         "total_units": 100,
         "cost": 450
     },
@@ -85,7 +85,7 @@
         "date": "2024-06-10",
         "productCategory": "iphone",
         "severity": "low",
-        "faulty": 12,
+        "faulty": 14,
         "total_units": 100,
         "cost": 500
     },
@@ -103,7 +103,7 @@
         "date": "2024-06-12",
         "productCategory": "iphone",
         "severity": "low",
-        "faulty": 2,
+        "faulty": 3,
         "total_units": 100,
         "cost": 400
     },
@@ -130,7 +130,7 @@
         "date": "2024-06-15",
         "productCategory": "imac",
         "severity": "medium",
-        "faulty": 5,
+        "faulty": 7,
         "total_units": 100,
         "cost": 450
     },
@@ -148,7 +148,7 @@
         "date": "2024-06-17",
         "productCategory": "ipad",
         "severity": "high",
-        "faulty": 5,
+        "faulty": 8,
         "total_units": 100,
         "cost": 500
     },
@@ -202,7 +202,7 @@
         "date": "2024-06-23",
         "productCategory": "iphone",
         "severity": "medium",
-        "faulty": 20,
+        "faulty": 19,
         "total_units": 100,
         "cost": 600
     },
@@ -238,7 +238,7 @@
         "date": "2024-06-27",
         "productCategory": "ipad",
         "severity": "low",
-        "faulty": 5,
+        "faulty": 6,
         "total_units": 100,
         "cost": 500
     },
@@ -269,4 +269,562 @@
         "total_units": 100,
         "cost": 500
     },
+    {
+        "defectType": "deformed",
+        "date": "2024-07-01",
+        "productCategory": "iphone",
+        "severity": "high",
+        "faulty": 11,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-07-02",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 20,
+        "total_units": 100,
+        "cost": 600
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-03",
+        "productCategory": "imac",
+        "severity": "medium",
+        "faulty": 22,
+        "total_units": 100,
+        "cost": 700
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-04",
+        "productCategory": "iphone",
+        "severity": "high",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-07-05",
+        "productCategory": "ipad",
+        "severity": "medium",
+        "faulty": 1,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-06",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 2,
+        "total_units": 100,
+        "cost": 420
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-07-07",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 4,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-08",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "deformed",
+        "date": "2024-07-09",
+        "productCategory": "imac",
+        "severity": "medium",
+        "faulty": 8,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-10",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 12,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-07-11",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-12",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 2,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-07-13",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-14",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 1,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-07-15",
+        "productCategory": "imac",
+        "severity": "medium",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-16",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-07-17",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 7,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-18",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-07-19",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-20",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 4,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "deformed",
+        "date": "2024-07-21",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 15,
+        "total_units": 100,
+        "cost": 600
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-22",
+        "productCategory": "imac",
+        "severity": "low",
+        "faulty": 6,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-07-23",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 20,
+        "total_units": 100,
+        "cost": 600
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-24",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "deformed",
+        "date": "2024-07-25",
+        "productCategory": "iphone",
+        "severity": "high",
+        "faulty": 1,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-26",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-07-27",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-28",
+        "productCategory": "imac",
+        "severity": "high",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-07-29",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 13,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-30",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-07-31",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 12,
+        "total_units": 100,
+        "cost": 580
+    },
+    {
+        "defectType": "deformed",
+        "date": "2024-08-01",
+        "productCategory": "iphone",
+        "severity": "high",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-08-02",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 20,
+        "total_units": 100,
+        "cost": 600
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-03",
+        "productCategory": "imac",
+        "severity": "medium",
+        "faulty": 25,
+        "total_units": 100,
+        "cost": 700
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-04",
+        "productCategory": "iphone",
+        "severity": "high",
+        "faulty": 8,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-08-05",
+        "productCategory": "ipad",
+        "severity": "medium",
+        "faulty": 1,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-06",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 2,
+        "total_units": 100,
+        "cost": 420
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-08-07",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 3,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-08",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 12,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "deformed",
+        "date": "2024-08-09",
+        "productCategory": "imac",
+        "severity": "medium",
+        "faulty": 8,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-10",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 12,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-08-11",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-12",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 2,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-08-13",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 7,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-14",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 1,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-08-15",
+        "productCategory": "imac",
+        "severity": "medium",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-16",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-08-17",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-18",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-08-19",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 12,
+        "total_units": 100,
+        "cost": 450
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-20",
+        "productCategory": "ipad",
+        "severity": "high",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "deformed",
+        "date": "2024-08-21",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 15,
+        "total_units": 100,
+        "cost": 600
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-22",
+        "productCategory": "imac",
+        "severity": "low",
+        "faulty": 8,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-08-23",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 20,
+        "total_units": 100,
+        "cost": 600
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-24",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "deformed",
+        "date": "2024-08-25",
+        "productCategory": "iphone",
+        "severity": "high",
+        "faulty": 1,
+        "total_units": 100,
+        "cost": 400
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-26",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "damaged",
+        "date": "2024-08-27",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-28",
+        "productCategory": "imac",
+        "severity": "high",
+        "faulty": 8,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "cracked",
+        "date": "2024-08-29",
+        "productCategory": "iphone",
+        "severity": "medium",
+        "faulty": 10,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-30",
+        "productCategory": "ipad",
+        "severity": "low",
+        "faulty": 5,
+        "total_units": 100,
+        "cost": 500
+    },
+    {
+        "defectType": "none",
+        "date": "2024-08-31",
+        "productCategory": "iphone",
+        "severity": "low",
+        "faulty": 12,
+        "total_units": 100,
+        "cost": 580
+    }
 ]}
