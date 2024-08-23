@@ -1,6 +1,7 @@
 import os
 from flask import Flask, json, request, jsonify
 from datetime import date, datetime
+from flask_cors import CORS
 from enum import Enum
 class ProductTypes(Enum):
     iphone = 'iphone'
@@ -18,6 +19,12 @@ maximum_cost_saving = 200
 maximum_faulty_product = 25
 
 app = Flask(__name__)
+CORS(app)
+cors = CORS(app, resource={
+    r"/*":{
+        "origins":"*"
+    }
+})
 
 # Get defect production overview by product type, date range and product category
 @app.route('/api/defects', methods=['GET'])
