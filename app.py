@@ -166,8 +166,6 @@ def get_stats():
                 avg_product_efficiency = avg_product_efficiency + diff_product_efficiency
                 
             arr_length = len(filtered_array) if len(filtered_array) > 0 else 1
-            print("arr_length")
-            print(arr_length)
             product_overview['failure_rate'] = round(avg_failure / arr_length, 2)
             product_overview['failure_rate_trend'] = round((max_failure - avg_failure) / maximum_faulty_product, 2)
             product_overview['cost_saving'] = round(((avg_cost_saving / arr_length) * 100) / maximum_cost_saving, 2)
